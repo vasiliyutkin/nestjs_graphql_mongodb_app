@@ -1,13 +1,17 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+  <img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" />
 </p>
 
 <p align="center">
-  <a href="" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/480px-GraphQL_Logo.svg.png" width="320" alt="Graphql Logo" /></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/480px-GraphQL_Logo.svg.png" width="320" alt="Graphql Logo" />
 </p>
 
 <p align="center">
-  <a href="" target="blank"><img src="https://www.pinclipart.com/picdir/middle/336-3367489_mongodb-mongodb-nosql-logo-clipart.png" width="320" alt="Mongodb Logo" /></a>
+  <img src="https://cdn.onlinewebfonts.com/svg/img_207461.png" width="320" alt="Mongodb Logo" />
 </p>
 
-School managemets app written with using `nestjs` `graphql` and `mongodb` techs.
+<p align="center">
+  <img src="https://miro.medium.com/max/330/0*RtsFLub4uFaCxDsJ.png" width="320" alt="Node Logo" />
+</p>
+
+School management app written with using `nestjs` `graphql` and `mongodb` techs
